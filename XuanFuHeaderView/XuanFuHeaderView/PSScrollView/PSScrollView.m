@@ -76,6 +76,7 @@
 
 - (void)setupMainView {
     self.mainView = [[UIScrollView alloc] initWithFrame:self.bounds];
+    _mainView.showsHorizontalScrollIndicator = NO;
     _mainView.pagingEnabled = YES;
     _mainView.delegate = self;
     [self addSubview:_mainView];
