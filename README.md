@@ -1,5 +1,5 @@
 # PSScrollView
-![循环轮播](http://img.blog.csdn.net/20160720164001104)
+![循环轮播](http://img.blog.csdn.net/20160720170445326)
 
 ## 安装PSScrollView
 *Installation with CocoaPods：`pod 'PSScrollView'`
