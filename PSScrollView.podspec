@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "PSScrollView"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "PSScrollView."
   s.description  = <<-DESC
   					私有PSScrollView
